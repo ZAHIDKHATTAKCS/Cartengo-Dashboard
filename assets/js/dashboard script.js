@@ -1,4 +1,5 @@
-        document.addEventListener('DOMContentLoaded', function () {
+    //   sidebar cross icon
+      document.addEventListener('DOMContentLoaded', function () {
             const sidebar = document.getElementById('sidebar');
             const content = document.getElementById('content');
             const toggleBtn = document.getElementById('toggle-sidebar');
